@@ -11,3 +11,5 @@ Total Commmits in 2019 :tada:
 Total Commmits in 2018
 
 - 1 _contributions_ :smile: :sweat:
+
+**progress of using GitHub**
