@@ -1,14 +1,13 @@
+**MY Commits in GitHub**
 
-## MY Commits in GitHub
 Total Commmits in 2020 :heart: :sunglasses:
 
-- 380 contributions :sparkles: :sparkles:
+- 380 _contributions_ :sparkles: :sparkles:
 
 Total Commmits in 2019 :tada:
 
-- 48 contributions :sparkles:
+- 48 _contributions_ :sparkles:
 
 Total Commmits in 2018
 
-- 1 contributions :smile: :sweat:
-
+- 1 _contributions_ :smile: :sweat:
